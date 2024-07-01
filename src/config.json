@@ -1,0 +1,28 @@
+{
+  "ticket": {
+    "threadTicketChannelId": "1205562699598008390",
+    "joinMessageChannelId": "1252345513093894185"
+  },
+  "unban": {
+    "threadTicketChannelId": "1205562699598008390",
+    "joinMessageChannelId": "1252345513093894185"
+  },
+  "bewerbung": {
+    "threadTicketChannelId": "1205562699598008390",
+    "joinMessageChannelId": "1252345513093894185"
+  },
+  "form": {
+    "dev": {
+      "active": true,
+      "fragen": ["Wie heißt du?", "Wie alt bist du?", "Was ist dein Minecraft Username?", "Wie viel Erfahrung hast du als Minecraft Plugin Entwickler?", "Hast du Erfahrung mit Datenbanken?", "Hast du bereits Erfahrung in einem Server Team oder Entwickler Team gehabt?", "Möchtest du uns vorab einen Sourcecode von dir bereitstellen zb. in Form eines Github Links?", "Wie viel Zeit kannst du pro Woche ungefähr in den Server investieren?", "Wie bist du auf uns gestoßen?"]
+    },
+    "builder": {
+      "active": true,
+      "fragen": ["Wie heißt du?", "Wie alt bist du?", "Was ist dein Minecraft Username?", "Wie viel Erfahrung hast du als Minecraft Builder?", "Mit welchen Building Tools wie Worldedit bist du vertraut?", "Hast du bereits Erfahrung in einem Builder Team gehabt?", "Welche Baustile beherrschst du?", "Hast du Bilder, Videos oder Weltdateien von deinen Bauprojekten die du uns zeigen möchtest?", "Wie viel Zeit kannst du pro Woche ungefähr in den Server investieren?", "Wie bist du auf uns gestoßen?"]
+    },
+    "close-beta": {
+      "active": true,
+      "fragen": ["Wie heißt du?", "Was ist dein Minecraft Username?", "Wie lange spielst du schon allgemein Minecraft Server?", "Wie viel Zeit hast du pro Woche für den Minecraft Server", "Wieso möchtest du die Close Beta spielen?", "Der erspielte Spielstand wird beim Release zurückgesetzt, bist du damit einverstanden?", "Wie bist du auf uns aufmerksam geworden?"]
+    }
+  }
+}
